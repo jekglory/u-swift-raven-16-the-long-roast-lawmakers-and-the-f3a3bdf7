@@ -22,10 +22,11 @@ Competition: "The Long Roast: Lawmakers and the File They Cannot Convert"
 
 ## Repo
 - URL: https://github.com/jekglory/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7
-- Branch: main. Commit (HEAD, to submit): ee82adbc49c8399d43ce44bbd9593bc41e84f1fd
+- Branch: main. Commit (HEAD, to submit): 281e58263b96bed313bdaa75d779fcafe4d19e63
 - First commit 22586f4da50f982e1ecaed21ea620cf169064a61 (entry); second commit
   ee82adbc49c8399d43ce44bbd9593bc41e84f1fd (removed stray __pycache__ .pyc,
-  added .gitignore).
+  added .gitignore); third commit 281e58263b96bed313bdaa75d779fcafe4d19e63
+  (this checkpoint file).
 - Repo created 2026-11-24T08:00:33Z, after competition opened 07:47:52Z.
   Public, MIT LICENSE, .makefun/owner.json (wallet
   8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG), README with all three
@@ -52,7 +53,7 @@ Competition: "The Long Roast: Lawmakers and the File They Cannot Convert"
 ## Next steps for the submit run (after 00:00Z quota reset)
 1. Bundle transcripts with the kit CLI (node cli/makefun.mjs bundle).
 2. Run kit `check` on the exact bundle; fix any FAIL.
-3. Submit via kit CLI with commit ee82adbc49c8399d43ce44bbd9593bc41e84f1fd.
+3. Submit via kit CLI with commit 281e58263b96bed313bdaa75d779fcafe4d19e63.
 4. Verify live stage; record submission ID + claim code ONLY in
    ~/workspace/makefun/submissions-2026-11-13.md (never in chat).
 5. Report bounty name, prize, deadline to Adam in Bahasa Indonesia.
